@@ -34,6 +34,7 @@ namespace CleanArch.Domain.Entities.User {
         public string Password { get; set; }
 
         [Display (Name = "کد فعال سازی")]
+        [MaxLength (50, ErrorMessage = "{0} نمی تواند بیشتر از {1} باشد")]
         public string ActiveCode { get; set; }
 
         [Display (Name = "وضعیت")]

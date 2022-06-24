@@ -1907,11 +1907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+      "projectUniqueName": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
       "projectName": "CleanArch.Mvc",
-      "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+      "projectPath": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
       "packagesPath": "C:\\Users\\R.Okhravi\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\obj\\",
+      "outputPath": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1932,8 +1932,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj": {
-              "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj"
+            "e:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj": {
+              "projectPath": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj"
             }
           }
         }

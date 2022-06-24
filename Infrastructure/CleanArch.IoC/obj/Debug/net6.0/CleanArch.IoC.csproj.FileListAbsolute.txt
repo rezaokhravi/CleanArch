@@ -1,0 +1,12 @@
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\CleanArch.IoC.csproj.AssemblyReference.cache
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\CleanArch.IoC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\CleanArch.IoC.AssemblyInfoInputs.cache
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\CleanArch.IoC.AssemblyInfo.cs
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\CleanArch.IoC.csproj.CoreCompileInputs.cache
+e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\bin\Debug\net6.0\CleanArch.IoC.deps.json
+e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\bin\Debug\net6.0\CleanArch.IoC.dll
+e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\bin\Debug\net6.0\CleanArch.IoC.pdb
+e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\CleanArch.IoC.dll
+e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\refint\CleanArch.IoC.dll
+e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\CleanArch.IoC.pdb
+e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\ref\CleanArch.IoC.dll

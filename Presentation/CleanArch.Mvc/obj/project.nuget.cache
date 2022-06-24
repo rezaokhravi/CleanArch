@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iz4+XgsxoVHymZ+HAh12948uyZ9t0mPlT3p2n4nrwvWMP6wdeQfANOIFZsMq/aAqmrCSSOraeUYTFWTPKT2I/Q==",
+  "dgSpecHash": "5MMpsyVAPJWeSmVzPiFR2j1W7n8zNOBzU0rX5aNNGH6Oec3eiN0spiHUooewdeWq+ah48yb2DZqBJySwTJV6+g==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+  "projectFilePath": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\R.Okhravi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
