@@ -1,0 +1,17 @@
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\bin\Debug\net6.0\CleanArch.Data.deps.json
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\bin\Debug\net6.0\CleanArch.Data.runtimeconfig.json
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\bin\Debug\net6.0\CleanArch.Data.dll
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\bin\Debug\net6.0\CleanArch.Data.pdb
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\bin\Debug\net6.0\CleanArch.Domain.dll
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\bin\Debug\net6.0\CleanArch.Domain.pdb
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\CleanArch.Data.csproj.AssemblyReference.cache
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\CleanArch.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\CleanArch.Data.AssemblyInfoInputs.cache
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\CleanArch.Data.AssemblyInfo.cs
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\CleanArch.Data.csproj.CoreCompileInputs.cache
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\CleanArch.Data.csproj.CopyComplete
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\CleanArch.Data.dll
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\refint\CleanArch.Data.dll
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\CleanArch.Data.pdb
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\CleanArch.Data.genruntimeconfig.cache
+E:\Projects\AspCore\Core6\CleanArch\Persistence\CleanArch.Data\obj\Debug\net6.0\ref\CleanArch.Data.dll
