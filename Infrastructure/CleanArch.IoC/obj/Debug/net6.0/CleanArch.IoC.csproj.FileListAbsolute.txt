@@ -10,3 +10,8 @@ e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.
 e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\refint\CleanArch.IoC.dll
 e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\CleanArch.IoC.pdb
 e:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\ref\CleanArch.IoC.dll
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\bin\Debug\net6.0\CleanArch.Data.dll
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\bin\Debug\net6.0\CleanArch.Domain.dll
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\bin\Debug\net6.0\CleanArch.Domain.pdb
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\bin\Debug\net6.0\CleanArch.Data.pdb
+E:\Projects\AspCore\Core6\CleanArch\Infrastructure\CleanArch.IoC\obj\Debug\net6.0\CleanArch.IoC.csproj.CopyComplete

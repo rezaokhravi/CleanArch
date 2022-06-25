@@ -9,6 +9,7 @@
       "CleanArch.Mvc/1.0.0": {
         "dependencies": {
           "CleanArch.Data": "1.0.0",
+          "CleanArch.IoC": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.5",
           "Microsoft.EntityFrameworkCore.Design": "6.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.5",
@@ -453,6 +454,16 @@
         "runtime": {
           "CleanArch.Domain.dll": {}
         }
+      },
+      "CleanArch.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArch.Data": "1.0.0",
+          "CleanArch.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "6.0.0"
+        },
+        "runtime": {
+          "CleanArch.IoC.dll": {}
+        }
       }
     }
   },
@@ -769,6 +780,11 @@
       "sha512": ""
     },
     "CleanArch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

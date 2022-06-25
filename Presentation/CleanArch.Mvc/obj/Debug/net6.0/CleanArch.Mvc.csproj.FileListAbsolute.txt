@@ -63,3 +63,5 @@ E:\Projects\AspCore\Core6\CleanArch\Presentation\CleanArch.Mvc\bin\Debug\net6.0\
 E:\Projects\AspCore\Core6\CleanArch\Presentation\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Data.pdb
 E:\Projects\AspCore\Core6\CleanArch\Presentation\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.Domain.pdb
 E:\Projects\AspCore\Core6\CleanArch\Presentation\CleanArch.Mvc\obj\Debug\net6.0\CleanArch.Mvc.csproj.CopyComplete
+E:\Projects\AspCore\Core6\CleanArch\Presentation\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.IoC.dll
+E:\Projects\AspCore\Core6\CleanArch\Presentation\CleanArch.Mvc\bin\Debug\net6.0\CleanArch.IoC.pdb
