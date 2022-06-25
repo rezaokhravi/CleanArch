@@ -21,7 +21,7 @@ namespace CleanArch.Application.ViewModels {
         [Display (Name = "کلمه عبور")]
         [Required (ErrorMessage = "لطفا {0} را وارد نمایید")]
         [MaxLength (200, ErrorMessage = "{0} نمی تواند بیشتر از {1} باشد")]
-
+        [DataType(DataType.Password)]
         public string Password { get; set; }
 
         [Display (Name = "تکرار کلمه عبور")]

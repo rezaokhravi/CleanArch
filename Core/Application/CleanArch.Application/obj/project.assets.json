@@ -631,6 +631,20 @@
             "rid": "win"
           }
         }
+      },
+      "CleanArch.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.5"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Domain.dll": {}
+        }
       }
     }
   },
@@ -1850,10 +1864,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CleanArch.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/CleanArch.Domain/CleanArch.Domain.csproj",
+      "msbuildProject": "../../Domain/CleanArch.Domain/CleanArch.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CleanArch.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.5",
@@ -1861,23 +1881,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\R.Okhravi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\r.okhravi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Application\\CleanArch.Application\\CleanArch.Application.csproj",
+      "projectUniqueName": "d:\\projects\\CleanArch\\Core\\Application\\CleanArch.Application\\CleanArch.Application.csproj",
       "projectName": "CleanArch.Application",
-      "projectPath": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Application\\CleanArch.Application\\CleanArch.Application.csproj",
-      "packagesPath": "C:\\Users\\R.Okhravi\\.nuget\\packages\\",
-      "outputPath": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Application\\CleanArch.Application\\obj\\",
+      "projectPath": "d:\\projects\\CleanArch\\Core\\Application\\CleanArch.Application\\CleanArch.Application.csproj",
+      "packagesPath": "C:\\Users\\r.okhravi\\.nuget\\packages\\",
+      "outputPath": "d:\\projects\\CleanArch\\Core\\Application\\CleanArch.Application\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\R.Okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\r.okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1885,13 +1901,16 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\ProgramData\\Microsoft\\VisualStudio\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+              "projectPath": "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1940,7 +1959,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

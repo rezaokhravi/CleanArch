@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "182b0896-cc45-472b-8c06-d93afd128a28": {
+      "ProjectGuid": "182b0896-cc45-472b-8c06-d93afd128a28",
+      "DisplayName": "CleanArch.Mvc",
+      "ColorIndex": 0
+    },
+    "8040f1c3-2e13-4c4c-acde-0e66ad137507": {
+      "ProjectGuid": "8040f1c3-2e13-4c4c-acde-0e66ad137507",
+      "DisplayName": "CleanArch.Application",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

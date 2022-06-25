@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Application",
+    "\\Core\\Application\\CleanArch.Application",
+    "\\Core\\Application\\CleanArch.Application\\Interfaces",
+    "\\Core\\Application\\CleanArch.Application\\Services"
+  ],
+  "SelectedNode": "\\Core\\Application\\CleanArch.Application\\Services\\UserService.cs",
+  "PreviewInSolutionExplorer": false
+}

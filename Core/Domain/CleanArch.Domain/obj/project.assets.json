@@ -1861,23 +1861,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\R.Okhravi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\r.okhravi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj",
+      "projectUniqueName": "D:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj",
       "projectName": "CleanArch.Domain",
-      "projectPath": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj",
-      "packagesPath": "C:\\Users\\R.Okhravi\\.nuget\\packages\\",
-      "outputPath": "e:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\obj\\",
+      "projectPath": "D:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj",
+      "packagesPath": "C:\\Users\\r.okhravi\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\R.Okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\r.okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1885,7 +1881,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\ProgramData\\Microsoft\\VisualStudio\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1940,7 +1935,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
