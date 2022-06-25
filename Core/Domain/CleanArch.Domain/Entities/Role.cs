@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CleanArch.Domain.Entities.User {
+namespace CleanArch.Domain.Entities {
     public class Role {
         public Role () { }
 
@@ -20,7 +20,6 @@ namespace CleanArch.Domain.Entities.User {
 
         #region Relations
         public virtual List<UserRole> UserRoles { get; set; }
-
         #endregion
     }
 }

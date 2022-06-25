@@ -10,3 +10,8 @@ E:\Projects\AspCore\Core6\CleanArch\Core\Application\CleanArch.Application\obj\D
 E:\Projects\AspCore\Core6\CleanArch\Core\Application\CleanArch.Application\obj\Debug\net6.0\refint\CleanArch.Application.dll
 E:\Projects\AspCore\Core6\CleanArch\Core\Application\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.pdb
 E:\Projects\AspCore\Core6\CleanArch\Core\Application\CleanArch.Application\obj\Debug\net6.0\ref\CleanArch.Application.dll
+e:\Projects\AspCore\Core6\CleanArch\Core\Application\CleanArch.Application\bin\Debug\net6.0\CleanArch.Application.runtimeconfig.json
+e:\Projects\AspCore\Core6\CleanArch\Core\Application\CleanArch.Application\bin\Debug\net6.0\CleanArch.Domain.dll
+e:\Projects\AspCore\Core6\CleanArch\Core\Application\CleanArch.Application\bin\Debug\net6.0\CleanArch.Domain.pdb
+e:\Projects\AspCore\Core6\CleanArch\Core\Application\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.csproj.CopyComplete
+e:\Projects\AspCore\Core6\CleanArch\Core\Application\CleanArch.Application\obj\Debug\net6.0\CleanArch.Application.genruntimeconfig.cache

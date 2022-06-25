@@ -6,7 +6,7 @@ using System.Data.Common;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CleanArch.Domain.Entities.User {
+namespace CleanArch.Domain.Entities {
     public class User {
         public User () {
 
@@ -21,31 +21,25 @@ namespace CleanArch.Domain.Entities.User {
         [MaxLength (200, ErrorMessage = "{0} نمی تواند بیشتر از {1} باشد")]
         public string UserName { get; set; }
 
-        [Display (Name = "ایمیل")]
-        [Required (ErrorMessage = "لطفا {0} را وارد نمایید")]
-        [MaxLength (200, ErrorMessage = "{0} نمی تواند بیشتر از {1} باشد")]
-        [EmailAddress (ErrorMessage = "{0} وارد شده معتبر نمی باشد")]
-        public string Email { get; set; }
-
         [Display (Name = "کلمه عبور")]
         [Required (ErrorMessage = "لطفا {0} را وارد نمایید")]
         [MaxLength (200, ErrorMessage = "{0} نمی تواند بیشتر از {1} باشد")]
-
         public string Password { get; set; }
 
-        [Display (Name = "کد فعال سازی")]
-        [MaxLength (50, ErrorMessage = "{0} نمی تواند بیشتر از {1} باشد")]
-        public string ActiveCode { get; set; }
+        [Display (Name = "نام قابل نمایش")]
+        [Required (ErrorMessage = "لطفا {0} را وارد نمایید")]
+        [MaxLength (200, ErrorMessage = "{0} نمی تواند بیشتر از {1} باشد")]
+        public string DisplayName { get; set; }
 
         [Display (Name = "وضعیت")]
         public bool IsActive { get; set; }
 
         [Display (Name = "تصویر کاربر")]
-        public string UserAvatar { get; set; }
+        public byte? UserAvatar { get; set; }
 
-        [Display (Name = "تاریخ ثبت نام")]
+        [Display (Name = "تاریخ آخرین لاگین")]
 
-        public DateTime RegisterDate { get; set; }
+        public DateTime? LastLoginDate { get; set; }
 
         #region Relations
         public virtual List<UserRole> UserRoles { get; set; }

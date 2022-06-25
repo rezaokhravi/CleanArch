@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CleanArch.Domain.Entities.User {
+namespace CleanArch.Domain.Entities {
     public class UserRole {
         public UserRole () { }
 

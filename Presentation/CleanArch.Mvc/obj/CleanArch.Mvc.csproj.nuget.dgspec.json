@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "d:\\projects\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {}
+    "E:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {}
   },
   "projects": {
-    "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+    "E:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectUniqueName": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj",
         "projectName": "CleanArch.Domain",
-        "projectPath": "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj",
-        "packagesPath": "C:\\Users\\r.okhravi\\.nuget\\packages\\",
-        "outputPath": "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\obj\\",
+        "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "packagesPath": "C:\\Users\\R.Okhravi\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\r.okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\R.Okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramData\\Microsoft\\VisualStudio\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -76,21 +80,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\projects\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj": {
+    "E:\\Projects\\AspCore\\Core6\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\projects\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj",
+        "projectUniqueName": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj",
         "projectName": "CleanArch.IoC",
-        "projectPath": "d:\\projects\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj",
-        "packagesPath": "C:\\Users\\r.okhravi\\.nuget\\packages\\",
-        "outputPath": "d:\\projects\\CleanArch\\Infrastructure\\CleanArch.IoC\\obj\\",
+        "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj",
+        "packagesPath": "C:\\Users\\R.Okhravi\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Infrastructure\\CleanArch.IoC\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\r.okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\R.Okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,17 +105,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramData\\Microsoft\\VisualStudio\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "E:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj"
               },
-              "d:\\projects\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj": {
-                "projectPath": "d:\\projects\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj"
+              "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj": {
+                "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj"
               }
             }
           }
@@ -143,21 +151,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\projects\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj": {
+    "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\projects\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj",
+        "projectUniqueName": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj",
         "projectName": "CleanArch.Data",
-        "projectPath": "d:\\projects\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj",
-        "packagesPath": "C:\\Users\\r.okhravi\\.nuget\\packages\\",
-        "outputPath": "d:\\projects\\CleanArch\\Persistence\\CleanArch.Data\\obj\\",
+        "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj",
+        "packagesPath": "C:\\Users\\R.Okhravi\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\r.okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\R.Okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,14 +176,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramData\\Microsoft\\VisualStudio\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj": {
-                "projectPath": "d:\\projects\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj"
+              "E:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+                "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Core\\Domain\\CleanArch.Domain\\CleanArch.Domain.csproj"
               }
             }
           }
@@ -223,21 +235,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\projects\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {
+    "E:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\projects\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+        "projectUniqueName": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
         "projectName": "CleanArch.Mvc",
-        "projectPath": "d:\\projects\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
-        "packagesPath": "C:\\Users\\r.okhravi\\.nuget\\packages\\",
-        "outputPath": "d:\\projects\\CleanArch\\Presentation\\CleanArch.Mvc\\obj\\",
+        "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\CleanArch.Mvc.csproj",
+        "packagesPath": "C:\\Users\\R.Okhravi\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Presentation\\CleanArch.Mvc\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\r.okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\R.Okhravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -245,17 +260,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\ProgramData\\Microsoft\\VisualStudio\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\projects\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj": {
-                "projectPath": "d:\\projects\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj"
+              "E:\\Projects\\AspCore\\Core6\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj": {
+                "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Infrastructure\\CleanArch.IoC\\CleanArch.IoC.csproj"
               },
-              "d:\\projects\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj": {
-                "projectPath": "d:\\projects\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj"
+              "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj": {
+                "projectPath": "E:\\Projects\\AspCore\\Core6\\CleanArch\\Persistence\\CleanArch.Data\\CleanArch.Data.csproj"
               }
             }
           }
@@ -309,7 +325,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
